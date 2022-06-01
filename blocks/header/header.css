@@ -39,8 +39,8 @@ header nav .nav-brand p {
   margin: 0;
 }
 
-header nav .nav-brand img {
-  width: 128px;
+header nav .nav-brand .icon svg {
+  width: 25px;
 }
 
 /* hamburger */
